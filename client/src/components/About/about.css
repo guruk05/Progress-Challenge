@@ -1,0 +1,16 @@
+.about{
+    background-color: yellow;
+}
+
+
+.title{
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+.bodyText{
+    text-align: center;
+    margin-top:3em;
+    margin-left: 3em;
+    margin-right: 3em;
+}

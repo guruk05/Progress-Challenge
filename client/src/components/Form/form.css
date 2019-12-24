@@ -1,0 +1,10 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.cards {
+    margin-top: 10vmin;
+    display: flex;
+    justify-content: center;
+}
